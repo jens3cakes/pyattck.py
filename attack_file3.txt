@@ -18,4 +18,30 @@ Net
 route
 cmd
 Arp
+netstatOrangeworm
+Windows Admin Shares
+Standard Application Layer Protocol
+KwampirsOrangeworm
+Windows Admin Shares
+Standard Application Layer Protocol
+KwampirsOrangeworm
+Windows Admin Shares
+Standard Application Layer Protocol
+Kwampirs
+Systeminfo
+ipconfig
+Net
+route
+cmd
+Arp
+netstatOrangeworm
+Windows Admin Shares
+Standard Application Layer Protocol
+Kwampirs
+Systeminfo
+ipconfig
+Net
+route
+cmd
+Arp
 netstat
