@@ -44,4 +44,24 @@ Net
 route
 cmd
 Arp
-netstat
+netstatActor's name: Orangeworm
+Technique used: Windows Admin Shares
+Technique used: Standard Application Layer Protocol
+Malware used: Kwampirs
+Tool used: Systeminfo
+Tool used: ipconfig
+Tool used: Net
+Tool used: route
+Tool used: cmd
+Tool used: Arp
+Tool used: netstatActor's name: Orangeworm
+Technique used: Windows Admin Shares
+Technique used: Standard Application Layer Protocol
+Malware used: Kwampirs
+Tool used: Systeminfo
+Tool used: ipconfig
+Tool used: Net
+Tool used: route
+Tool used: cmd
+Tool used: Arp
+Tool used: netstat
